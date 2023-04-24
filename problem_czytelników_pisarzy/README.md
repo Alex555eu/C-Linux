@@ -11,8 +11,8 @@ które czeka występuje dowolną ilość razy. Za każdym razem, gdy proces ten 
 wybierany jest jakiś inny oczekujący proces.
 
 Rozważ 2 rozwiązania problemu czytelników i pisarzy:
-• Rozwiązanie z możliwością zagłodzenia pisarzy – priorytet czytelnika;
-• Rozwiązanie z możliwością zagłodzenia czytelników – priorytet pisarza;
+• Rozwiązanie z możliwością zagłodzenia pisarzy – priorytet czytelnika
+• Rozwiązanie z możliwością zagłodzenia czytelników – priorytet pisarza
 
 Rozwiązać zadanie w 2 wersjach przy pomocy semaforów. Przyjąć, że liczba miejsc w czytelni jest
 ograniczona i ustalona na pewną wartość M. 
