@@ -1,7 +1,8 @@
 # Relacja producent-konsument z użyciem kolejki komunikatów
 
-Projekt składa się z dwóch programów uruchamianych niezależnie: serwer i klient.
+Możliwość wysyłania tekstu o wielu linijkach. Aby przesłać wiadomość, nalezy nacisnąć enter 2 razy.
 
+Projekt składa się z dwóch programów uruchamianych niezależnie: serwer i klient.
 
 Proces klient wysyła do procesu serwera ciąg znaków. Serwer odbiera ten ciąg znaków i przetwarza go
 zmieniając w nim wszystkie litery na duże, a następnie wysyła tak przetworzony ciąg znaków z
