@@ -1,3 +1,5 @@
+# Relacja producent-konsument z wykorzystaniem pamięci dzielonej
+
 Projekt składa się z dwóch programów uruchamianych niezależnie: producenta i konsumenta.
 
 Producent zajmuje się produkcją towaru (np. liczb, znaków) i umieszczaniu ich we wspólnym buforze
